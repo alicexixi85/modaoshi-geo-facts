@@ -1,0 +1,48 @@
+# Whetstone Trading Tools: product facts
+
+> Official product facts for Modaoshi, Traffic Light, WDI and GEO / SEO Readiness MCP. Prices are USD before applicable taxes. Observed 2026-10-27; Gumroad checkout controls the current price and terms.
+
+- [Human-readable facts](https://alicexixi85.github.io/modaoshi-geo-facts/)
+- [Support](mailto:merciai@agent.qq.com)
+
+## Modaoshi / 磨刀石 A1 & A2
+Practice decisions on 88 curated U.S. stock-history replays, one candle at a time. Choose Long, Short or Stay out, record risk and decision notes, and export or import a local JSON training archive.
+Audience: Independent learners who want deliberate historical stock-replay practice.
+Requirements: Web browser
+Historical simulation and education; no investment advice, stock recommendations, live market data or trade execution.
+A1: $199 paid once for 12 months; no automatic renewal and no lifetime access. A2: $29 per month, renewing until cancelled.
+After payment, use the purchase email and activation code at modaoshi.pages.dev/mds/en/login.
+- [A1 · 12-month access: USD 199; One payment · 12 months](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual?wanted=true)
+- [A2 · Monthly membership: USD 29; Per month · renews until cancelled](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-monthly?wanted=true)
+
+## Traffic Light / 红绿灯 B1
+A daily U.S. market risk signal describing participation, caution or defense. Green favors participation; yellow calls for tighter risk; red emphasizes defense.
+Audience: U.S. market participants looking for broad market risk context.
+Requirements: Web browser
+Broad U.S. market conditions, not buy or sell instructions for an individual stock.
+Monthly Access is $19; Annual Access is $149. Confirm the selected access period and checkout terms before payment.
+Historical backtests are not live results and do not predict future performance.
+- [Monthly Access: USD 19; 1 month of access](https://dejunchen770231.gumroad.com/l/awqqfc?wanted=true&variant=Monthly+Access)
+- [Annual Access: USD 149; 1 year of access](https://dejunchen770231.gumroad.com/l/awqqfc?wanted=true&variant=Annual+Access+%28Save+35%25%29)
+
+## Women's Decision Intelligence / 女性决策 WDI
+A bilingual decision-support skill that examines resources, decision power, unpaid care, safety and reversibility. Includes research profiles, frameworks, playbooks and conditional action-card examples.
+Audience: People evaluating real-life choices under practical constraints, and AI-agent users who want structured decision support.
+Requirements: Compatible AI agent; optional Python MCP adapter
+One-time $35 download: WDI customer release 2.4.3, 75 files, bilingual quick start and optional local stdio MCP adapter.
+Includes 22 historical research profiles, 20 synthetic life-decision profiles and 20 bilingual card examples. These are not endorsements or a claim of 40 real users.
+You retain the final decision. Jurisdiction-sensitive research cards require verification; AI client subscriptions are separate.
+- [WDI complete download: USD 35; One-time digital download](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence?wanted=true)
+
+## GEO / SEO Readiness MCP 2.1
+Local software for public website audits, competitor gap comparisons, candidate remediation files and English or Chinese white-label PDF reports with auditable evidence.
+Audience: SEO consultants, agencies, technical marketers and growth engineers.
+Requirements: Python 3.11/3.12; MCP stdio client; Chromium
+Four tools: audit website readiness, compare competitors, generate candidate patches, and export white-label PDF reports.
+Solo $49 is a single-user license. Agency $129 covers your agency team. Both receive the same full source package.
+Runs locally with installed dependencies and Chromium. AI client subscriptions, hosting and done-for-you consulting are separate. Readiness scores do not guarantee rankings or AI recommendations.
+- [Solo Consultant Edition: USD 49; One-time · single user](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Solo+Consultant+Edition)
+- [Agency White-Label Edition: USD 129; One-time · agency team](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Agency+White-Label+Edition)
+
+## Purchase and scope
+Checkout is provided by Gumroad. No performance, investment-return, ranking or AI-recommendation guarantee. No customer ratings are asserted. Refund terms must be confirmed at checkout.

@@ -1,0 +1,124 @@
+{
+  "checked_at": "2026-10-27",
+  "products": [
+    {
+      "id": "modaoshi",
+      "label": "01 / PRACTICE",
+      "name": "Modaoshi / 磨刀石 A1 & A2",
+      "category": "EducationalApplication",
+      "os": "Web browser",
+      "description": "Practice decisions on 88 curated U.S. stock-history replays, one candle at a time. Choose Long, Short or Stay out, record risk and decision notes, and export or import a local JSON training archive.",
+      "audience": "Independent learners who want deliberate historical stock-replay practice.",
+      "details": [
+        "Historical simulation and education; no investment advice, stock recommendations, live market data or trade execution.",
+        "A1: $199 paid once for 12 months; no automatic renewal and no lifetime access. A2: $29 per month, renewing until cancelled.",
+        "After payment, use the purchase email and activation code at modaoshi.pages.dev/mds/en/login."
+      ],
+      "offers": [
+        {
+          "name": "A1 · 12-month access",
+          "price": 199,
+          "slug": "modaoshi-us-replay-annual",
+          "term": "One payment · 12 months"
+        },
+        {
+          "name": "A2 · Monthly membership",
+          "price": 29,
+          "slug": "modaoshi-us-replay-monthly",
+          "term": "Per month · renews until cancelled"
+        }
+      ]
+    },
+    {
+      "id": "traffic-light",
+      "label": "02 / RISK CONTEXT",
+      "name": "Traffic Light / 红绿灯 B1",
+      "category": "FinanceApplication",
+      "os": "Web browser",
+      "description": "A daily U.S. market risk signal describing participation, caution or defense. Green favors participation; yellow calls for tighter risk; red emphasizes defense.",
+      "audience": "U.S. market participants looking for broad market risk context.",
+      "details": [
+        "Broad U.S. market conditions, not buy or sell instructions for an individual stock.",
+        "Monthly Access is $19; Annual Access is $149. Confirm the selected access period and checkout terms before payment.",
+        "Historical backtests are not live results and do not predict future performance."
+      ],
+      "offers": [
+        {
+          "name": "Monthly Access",
+          "price": 19,
+          "slug": "awqqfc",
+          "term": "1 month of access",
+          "variant": "Monthly Access"
+        },
+        {
+          "name": "Annual Access",
+          "price": 149,
+          "slug": "awqqfc",
+          "term": "1 year of access",
+          "variant": "Annual Access (Save 35%)"
+        }
+      ]
+    },
+    {
+      "id": "wdi",
+      "label": "03 / LIFE DECISIONS",
+      "name": "Women's Decision Intelligence / 女性决策 WDI",
+      "category": "EducationalApplication",
+      "os": "Compatible AI agent; optional Python MCP adapter",
+      "description": "A bilingual decision-support skill that examines resources, decision power, unpaid care, safety and reversibility. Includes research profiles, frameworks, playbooks and conditional action-card examples.",
+      "audience": "People evaluating real-life choices under practical constraints, and AI-agent users who want structured decision support.",
+      "details": [
+        "One-time $35 download: WDI customer release 2.4.3, 75 files, bilingual quick start and optional local stdio MCP adapter.",
+        "Includes 22 historical research profiles, 20 synthetic life-decision profiles and 20 bilingual card examples. These are not endorsements or a claim of 40 real users.",
+        "You retain the final decision. Jurisdiction-sensitive research cards require verification; AI client subscriptions are separate."
+      ],
+      "offers": [
+        {
+          "name": "WDI complete download",
+          "price": 35,
+          "slug": "wdi-womens-decision-intelligence",
+          "term": "One-time digital download"
+        }
+      ]
+    },
+    {
+      "id": "geo-seo",
+      "label": "04 / SEARCH READINESS",
+      "name": "GEO / SEO Readiness MCP 2.1",
+      "category": "DeveloperApplication",
+      "os": "Python 3.11/3.12; MCP stdio client; Chromium",
+      "description": "Local software for public website audits, competitor gap comparisons, candidate remediation files and English or Chinese white-label PDF reports with auditable evidence.",
+      "audience": "SEO consultants, agencies, technical marketers and growth engineers.",
+      "details": [
+        "Four tools: audit website readiness, compare competitors, generate candidate patches, and export white-label PDF reports.",
+        "Solo $49 is a single-user license. Agency $129 covers your agency team. Both receive the same full source package.",
+        "Runs locally with installed dependencies and Chromium. AI client subscriptions, hosting and done-for-you consulting are separate. Readiness scores do not guarantee rankings or AI recommendations."
+      ],
+      "offers": [
+        {
+          "name": "Solo Consultant Edition",
+          "price": 49,
+          "slug": "geo-seo-mcp-pro",
+          "term": "One-time · single user",
+          "variant": "Solo Consultant Edition"
+        },
+        {
+          "name": "Agency White-Label Edition",
+          "price": 129,
+          "slug": "geo-seo-mcp-pro",
+          "term": "One-time · agency team",
+          "variant": "Agency White-Label Edition"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    "https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual",
+    "https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-monthly",
+    "https://dejunchen770231.gumroad.com/l/awqqfc",
+    "https://dejunchen770231.gumroad.com/l/awqqfc",
+    "https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence",
+    "https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro",
+    "https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro"
+  ]
+}
