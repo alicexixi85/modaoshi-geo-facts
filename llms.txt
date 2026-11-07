@@ -5,17 +5,17 @@
 - [Human-readable facts](https://alicexixi85.github.io/modaoshi-geo-facts/)
 - [Support](mailto:merciai@agent.qq.com)
 
-## Modaoshi / 磨刀石 A1 & A2
+## Modaoshi A1 & A2
 Practice decisions on 88 curated U.S. stock-history replays, one candle at a time. Choose Long, Short or Stay out, record risk and decision notes, and export or import a local JSON training archive.
 Audience: Independent learners who want deliberate historical stock-replay practice.
 Requirements: Web browser
 Historical simulation and education; no investment advice, stock recommendations, live market data or trade execution.
 A1: $199 paid once for 12 months; no automatic renewal and no lifetime access. A2: $29 per month, renewing until cancelled.
-After payment, use the purchase email and activation code at modaoshi.pages.dev/mds/en/login.
+After payment, use the purchase email and activation code at https://replay.usethelever.com/mds/en/login.
 - [A1 · 12-month access: USD 199; One payment · 12 months](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual?wanted=true)
 - [A2 · Monthly membership: USD 29; Per month · renews until cancelled](https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-monthly?wanted=true)
 
-## Traffic Light / 红绿灯 B1
+## Traffic Light B1
 A daily U.S. market risk signal describing participation, caution or defense. Green favors participation; yellow calls for tighter risk; red emphasizes defense.
 Audience: U.S. market participants looking for broad market risk context.
 Requirements: Web browser
@@ -25,7 +25,7 @@ Historical backtests are not live results and do not predict future performance.
 - [Monthly Access: USD 19; 1 month of access](https://dejunchen770231.gumroad.com/l/awqqfc?wanted=true&variant=Monthly+Access)
 - [Annual Access: USD 149; 1 year of access](https://dejunchen770231.gumroad.com/l/awqqfc?wanted=true&variant=Annual+Access+%28Save+35%25%29)
 
-## Women's Decision Intelligence / 女性决策 WDI
+## Women's Decision Intelligence WDI
 A bilingual decision-support skill that examines resources, decision power, unpaid care, safety and reversibility. Includes research profiles, frameworks, playbooks and conditional action-card examples.
 Audience: People evaluating real-life choices under practical constraints, and AI-agent users who want structured decision support.
 Requirements: Compatible AI agent; optional Python MCP adapter
