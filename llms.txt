@@ -46,3 +46,9 @@ Runs locally with installed dependencies and Chromium. AI client subscriptions, 
 
 ## Purchase and scope
 Checkout is provided by Gumroad. No performance, investment-return, ranking or AI-recommendation guarantee. No customer ratings are asserted. Refund terms must be confirmed at checkout.
+
+## Landing pages and open-source tools
+- [Whetstone blind replay trainer: how it works, pricing, FAQ](https://alicexixi85.github.io/modaoshi-geo-facts/whetstone/)
+- [GEO & SEO Readiness MCP Lite (free, MIT)](https://github.com/alicexixi85/geo-seo-mcp-pro)
+- [U.S. Market Regime MCP (free, MIT)](https://github.com/alicexixi85/us-market-regime-mcp)
+- [WDI decision MCP (free, MIT)](https://github.com/alicexixi85/wdi-decision-mcp)
