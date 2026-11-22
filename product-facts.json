@@ -1,76 +1,75 @@
 {
-  "checked_at": "2026-10-27",
+  "checked_at": "2026-11-22",
+  "support_email": "support@usethelever.com",
   "products": [
     {
       "id": "modaoshi",
       "label": "01 / PRACTICE",
-      "name": "Modaoshi A1 & A2",
+      "name": "Whetstone / 磨刀石 U.S. Replay Trainer",
       "category": "EducationalApplication",
       "os": "Web browser",
-      "description": "Practice decisions on 88 curated U.S. stock-history replays, one candle at a time. Choose Long, Short or Stay out, record risk and decision notes, and export or import a local JSON training archive.",
-      "audience": "Independent learners who want deliberate historical stock-replay practice.",
+      "description": "Practice decisions on masked-ticker historical U.S. stock replays, one candle at a time. Start with an instant zero-login free round, 7-day sprint pass, or monthly/annual access.",
+      "audience": "Independent learners who want deliberate historical stock-replay practice without hindsight bias.",
       "details": [
         "Historical simulation and education; no investment advice, stock recommendations, live market data or trade execution.",
-        "A1: $199 paid once for 12 months; no automatic renewal and no lifetime access. A2: $29 per month, renewing until cancelled.",
-        "After payment, use the purchase email and activation code at https://replay.usethelever.com/mds/en/login."
+        "Sprint: $9 one-time for 7 days (no auto-renewal). Monthly: $29/month (renews until cancelled). Annual: $199 one-time for 12 months (no auto-renewal).",
+        "Free Round #1 requires zero login at replay.usethelever.com/mds/en/trial; paid passes redeem at replay.usethelever.com/mds/en/login."
       ],
       "offers": [
         {
-          "name": "A1 · 12-month access",
-          "price": 199,
-          "slug": "modaoshi-us-replay-annual",
-          "term": "One payment · 12 months"
+          "name": "7-Day Sprint Pass",
+          "price": 9,
+          "slug": "whetstone-7d-sprint",
+          "term": "One payment · 7 days (no auto-renew)"
         },
         {
           "name": "A2 · Monthly membership",
           "price": 29,
           "slug": "modaoshi-us-replay-monthly",
           "term": "Per month · renews until cancelled"
+        },
+        {
+          "name": "A1 · 12-month access",
+          "price": 199,
+          "slug": "modaoshi-us-replay-annual",
+          "term": "One payment · 12 months"
         }
       ]
     },
     {
       "id": "traffic-light",
-      "label": "02 / RISK CONTEXT",
-      "name": "Traffic Light B1",
+      "label": "02 / FREE OPEN INFRASTRUCTURE",
+      "name": "Traffic Light / 红绿灯 U.S. Market Regime",
       "category": "FinanceApplication",
-      "os": "Web browser",
-      "description": "A daily U.S. market risk signal describing participation, caution or defense. Green favors participation; yellow calls for tighter risk; red emphasizes defense.",
-      "audience": "U.S. market participants looking for broad market risk context.",
+      "os": "Web browser, JSON API & Remote MCP",
+      "description": "100% free open end-of-day U.S. market regime telemetry (GREEN / YELLOW / RED) built from QQQ trend structure, VIX vs. 20-day average, and 25-day distribution counts.",
+      "audience": "U.S. market participants looking for objective broad market risk context.",
       "details": [
-        "Broad U.S. market conditions, not buy or sell instructions for an individual stock.",
-        "Monthly Access is $19; Annual Access is $149. Confirm the selected access period and checkout terms before payment.",
-        "Historical backtests are not live results and do not predict future performance."
+        "100% free open dashboard (signal.usethelever.com), public JSON feed, and zero-install Remote MCP (mcp.usethelever.com/market-regime/mcp).",
+        "Broad U.S. market conditions only; not buy or sell instructions for any security.",
+        "Optional printable 3-Minute Pre-Market Decision Checklist available on Gumroad ($0+)."
       ],
       "offers": [
         {
-          "name": "Monthly Access",
-          "price": 19,
-          "slug": "awqqfc",
-          "term": "1 month of access",
-          "variant": "Monthly Access"
-        },
-        {
-          "name": "Annual Access",
-          "price": 149,
-          "slug": "awqqfc",
-          "term": "1 year of access",
-          "variant": "Annual Access (Save 35%)"
+          "name": "3-Minute Pre-Market Checklist",
+          "price": 0,
+          "slug": "qqq-traffic-light-checklist",
+          "term": "Free download ($0+)"
         }
       ]
     },
     {
       "id": "wdi",
       "label": "03 / LIFE DECISIONS",
-      "name": "Women's Decision Intelligence WDI",
+      "name": "Women's Decision Intelligence / 女性决策 WDI 2.4.3",
       "category": "EducationalApplication",
       "os": "Compatible AI agent; optional Python MCP adapter",
-      "description": "A bilingual decision-support skill that examines resources, decision power, unpaid care, safety and reversibility. Includes research profiles, frameworks, playbooks and conditional action-card examples.",
-      "audience": "People evaluating real-life choices under practical constraints, and AI-agent users who want structured decision support.",
+      "description": "A bilingual decision-support skill examining cash-flow runway, decision power, unpaid care, safety floors and reversibility across 75 structured files.",
+      "audience": "People evaluating high-stakes career and life transitions under practical constraints.",
       "details": [
         "One-time $35 download: WDI customer release 2.4.3, 75 files, bilingual quick start and optional local stdio MCP adapter.",
-        "Includes 22 historical research profiles, 20 synthetic life-decision profiles and 20 bilingual card examples. These are not endorsements or a claim of 40 real users.",
-        "You retain the final decision. Jurisdiction-sensitive research cards require verification; AI client subscriptions are separate."
+        "Includes 22 historical research profiles, 20 synthetic life-decision profiles and 20 bilingual card examples (not a claim of 40 real user endorsements).",
+        "You retain the final decision. Jurisdiction-sensitive research cards require independent verification."
       ],
       "offers": [
         {
@@ -83,27 +82,33 @@
     },
     {
       "id": "geo-seo",
-      "label": "04 / SEARCH READINESS",
-      "name": "GEO / SEO Readiness MCP 2.1",
+      "label": "04 / SEARCH READINESS (v2.2)",
+      "name": "GEO / SEO Readiness MCP 2.2",
       "category": "DeveloperApplication",
-      "os": "Python 3.11/3.12; MCP stdio client; Chromium",
-      "description": "Local software for public website audits, competitor gap comparisons, candidate remediation files and English or Chinese white-label PDF reports with auditable evidence.",
+      "os": "Windows, macOS & Linux; Python 3.11/3.12; MCP stdio client; Chromium",
+      "description": "Cross-platform local MCP workstation (v2.2) for public website GEO/SEO audits, hidden citation-blocker detection (X-Robots-Tag / meta robots noai & nosnippet / canonical), 8-platform hosted storefront scoring, competitor gap comparisons, 5-file candidate remediation bundles and zero-ligature EN/ZH white-label A4 PDF reports.",
       "audience": "SEO consultants, agencies, technical marketers and growth engineers.",
       "details": [
-        "Four tools: audit website readiness, compare competitors, generate candidate patches, and export white-label PDF reports.",
-        "Solo $49 is a single-user license. Agency $129 covers your agency team. Both receive the same full source package.",
-        "Runs locally with installed dependencies and Chromium. AI client subscriptions, hosting and done-for-you consulting are separate. Readiness scores do not guarantee rankings or AI recommendations."
+        "v2.2 adds Windows/macOS/Linux 1-command launchers (install.sh / Run-MCP-Local.sh, 127 pytest checks verified) and ligature-free A4 PDF URL rendering.",
+        "Detects hidden X-Robots-Tag & meta robots (noindex/nosnippet/noai/noimageai/max-snippet:0) blockers, auto-recognizes 8 hosted storefronts (Gumroad, LemonSqueezy, Shopify, Substack, Notion Sites, Framer, Carrd), and generates 5 candidate patch files (robots.txt, llms.txt, llms-full.txt, WebSite+Breadcrumb JSON-LD, head-meta.html).",
+        "Quick-Start Kit is $9. Solo v2.2 is $49 (single user). Agency v2.2 is $129 (agency team). Readiness scores measure observable technical signals and do not guarantee rankings or AI recommendations."
       ],
       "offers": [
         {
-          "name": "Solo Consultant Edition",
+          "name": "GEO Quick-Start Audit Kit",
+          "price": 9,
+          "slug": "geo-audit-starter",
+          "term": "One-time · templates & SOP"
+        },
+        {
+          "name": "Solo Consultant Edition (v2.2)",
           "price": 49,
           "slug": "geo-seo-mcp-pro",
           "term": "One-time · single user",
           "variant": "Solo Consultant Edition"
         },
         {
-          "name": "Agency White-Label Edition",
+          "name": "Agency White-Label Edition (v2.2)",
           "price": 129,
           "slug": "geo-seo-mcp-pro",
           "term": "One-time · agency team",
@@ -113,12 +118,13 @@
     }
   ],
   "sources": [
-    "https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual",
+    "https://dejunchen770231.gumroad.com/l/whetstone-7d-sprint",
     "https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-monthly",
-    "https://dejunchen770231.gumroad.com/l/awqqfc",
-    "https://dejunchen770231.gumroad.com/l/awqqfc",
+    "https://dejunchen770231.gumroad.com/l/modaoshi-us-replay-annual",
+    "https://signal.usethelever.com/",
+    "https://dejunchen770231.gumroad.com/l/qqq-traffic-light-checklist",
     "https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence",
-    "https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro",
+    "https://dejunchen770231.gumroad.com/l/geo-audit-starter",
     "https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro"
   ]
 }
