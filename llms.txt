@@ -21,15 +21,15 @@ Daily end-of-day U.S. broad-market risk posture (GREEN / YELLOW / RED) from QQQ 
 
 ## Women's Decision Intelligence / 女性决策 WDI 2.4.3
 Bilingual 75-file structured decision-support toolkit examining cash runway, decision power, unpaid care, safety floors and reversibility, plus optional local stdio MCP adapter.
-- [WDI complete download: USD 35; One-time digital download](https://dejunchen770231.gumroad.com/l/wdi-womens-decision-intelligence?wanted=true)
+- [WDI complete download: USD 35; One-time digital download](https://leverailab.gumroad.com/l/wdi-womens-decision-intelligence?wanted=true)
 
 ## GEO / SEO Readiness MCP 2.2 (Windows, macOS & Linux)
 Cross-platform local MCP workstation for public website GEO/SEO audits, hidden citation-blocker detection (`X-Robots-Tag` and `meta robots` `noindex/nosnippet/noai/noimageai/max-snippet:0` plus `canonical` mismatch), 8 hosted storefront platforms (Gumroad, LemonSqueezy, Shopify, Substack, Notion Sites, Framer, Carrd), competitor gap comparisons, 5-file candidate remediation bundles (`robots.txt`, `llms.txt`, `llms-full.txt`, `WebSite+BreadcrumbList` `schema.jsonld`, `head-meta.html`), and ligature-free EN/ZH white-label A4 PDF reports (127 automated pytest checks verified). Readiness scores do not guarantee rankings or AI recommendations.
 - [Free Browser Checker](https://usethelever.com/tools/ai-crawler-checker)
 - [Zero-Install Remote MCP](https://mcp.usethelever.com/geo-audit/mcp)
-- [GEO Quick-Start Audit Kit: USD 9; One-time](https://dejunchen770231.gumroad.com/l/geo-audit-starter?wanted=true)
-- [Solo Consultant Edition (v2.2): USD 49; One-time · single user](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Solo+Consultant+Edition)
-- [Agency White-Label Edition (v2.2): USD 129; One-time · agency team](https://dejunchen770231.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Agency+White-Label+Edition)
+- [GEO Quick-Start Audit Kit: USD 9; One-time](https://leverailab.gumroad.com/l/geo-audit-starter?wanted=true)
+- [Solo Consultant Edition (v2.2): USD 49; One-time · single user](https://leverailab.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Solo+Consultant+Edition)
+- [Agency White-Label Edition (v2.2): USD 129; One-time · agency team](https://leverailab.gumroad.com/l/geo-seo-mcp-pro?wanted=true&variant=Agency+White-Label+Edition)
 
 ## Purchase and scope
 Checkout is provided by Gumroad. No performance, investment-return, ranking or AI-recommendation guarantee. Support: support@usethelever.com.
